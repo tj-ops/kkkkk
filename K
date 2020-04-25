@@ -1,0 +1,3 @@
+*Guide- Flight Planning*
+
+Planning is one the most essential steps in a flight. Without it, you’re playing with fire. Before leaving the gate, take the time to acquire a realistic flight plan from one of the many flight planners associated with Infinite Flight (fpltoif.com, for example). Please abstain from using WPT-ICAO flight plans as they are not realistic. Once you’ve established your flight time, load fuel that will be sufficient in the worse case scenarios. The only instance where you can have too much fuel is during an emergency. Let’s not fall out of the sky due to poor planning!😁
